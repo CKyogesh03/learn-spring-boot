@@ -1,0 +1,3 @@
+2 ways we can configure:
+ - configure actuator in application properties file
+ - adding actuator dependency
